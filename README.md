@@ -32,7 +32,7 @@ RegisterNumber: 25015778
 ```
 
 ## Output:
-![lu decomposition]()
+
 <img width="1146" height="738" alt="image" src="https://github.com/user-attachments/assets/8eb50ce5-0a3f-4822-9612-37115bc9d601" />
 <img width="1456" height="584" alt="image" src="https://github.com/user-attachments/assets/e3628aed-53a5-44c3-9426-d5134c1deb7a" />
 
