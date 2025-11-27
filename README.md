@@ -24,11 +24,11 @@ RegisterNumber: 25015778
 ```
 import numpy as np
 
-from scipy.linalg import lu
-A=np.array(eval(input()))
-P,L,U=lu(A)
-print(L)
-print(U)
+from scipy.linalg import lu           
+A=np.array(eval(input()))        
+P,L,U=lu(A)        
+print(L)      
+print(U)       
 
 
 ```
